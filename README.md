@@ -2,7 +2,10 @@
 # 2026-07 Update
   这个仓库的Onecloud (WS1608) 刷机包不再更新
 
-## 我维护的另一个跟随Armbian官方镜像更新的Amlogic USB Burning Tool线刷包项目
+  我维护的另一个跟随Armbian官方镜像更新的Amlogic USB Burning Tool线刷包项目
+  
+  仓库地址
+  [armbian-official-onecloud-usb-burn-images](https://github.com/CopyPasteArtisan/armbian-official-onecloud-usb-burn-images)
   
   短接线刷后Armbian系统工作稳定，目前有下面官方img打包的线刷包，并且还在更新
   
@@ -21,10 +24,6 @@
   ...
   ```
   你可以用官方的其它 Armbian *.img.xz USB/SD卡镜像包打包成 USB Burning Tool 线刷包，实现DIY
-  
-  仓库地址
-  [armbian-official-onecloud-usb-burn-images](https://github.com/CopyPasteArtisan/armbian-official-onecloud-usb-burn-images)
-
   
   Actions工作流程参考了 https://github.com/hzyitc/armbian-onecloud 项目，感谢@hzyitc
 
